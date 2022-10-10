@@ -1,40 +1,27 @@
 # main links
 main:
-  - title: "HOME"
+#  - title: "HOME"
 #   url: https://3dfuns.github.io
-  - title: "SMART STORE"
+#  - title: "SMART STORE"
 #   url: https://smartstore.naver.com/3dfuns
-  - title: "Sample Posts"
+#  - title: "Sample Posts"
 #   url: /year-archive/
-  - title: "Sample Collections"
+#  - title: "Sample Collections"
 #   url: /collection-archive/
-  - title: "Sitemap"
+#  - title: "Sitemap"
 #   url: /sitemap/
    
 # documentation links
 docs:
   - title: 만들어보자!!!
     children:
-      - title: "CAR"
-        url: /_posts/car
-      - title: "Structure"
-        url: /docs/_posts/
-      - title: "Installation"
-        url: /docs/installation/
-      - title: "Upgrading"
-        url: /docs/upgrading/
-  - title: 샤오(XIAO) 코드
-    children:
-      - title: "Configuration"
-        url: /docs/configuration/
-      - title: "Overriding Theme Defaults"
-        url: /docs/overriding-theme-defaults/
-      - title: "Navigation"
-        url: /docs/navigation/
-      - title: "UI Text"
-        url: /docs/ui-text/
-      - title: "Authors"
-        url: /docs/authors/
-      - title: "Layouts"
-        url: /docs/layouts/
+#      - title: "CAR"
+#        url: /_posts/car
+#      - title: "Structure"
+#        url: /docs/_posts/
+#      - title: "Installation"
+#        url: /docs/installation/
+#      - title: "Upgrading"
+#        url: /docs/upgrading/
+
 
