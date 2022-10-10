@@ -24,4 +24,14 @@ docs:
 #      - title: "Upgrading"
 #        url: /docs/upgrading/
 
+  - title: 샤오(Xiao) 
+    children:
+#      - title: "CAR"
+#        url: /_posts/car
+#      - title: "Structure"
+#        url: /docs/_posts/
+#      - title: "Installation"
+#        url: /docs/installation/
+#      - title: "Upgrading"
+#        url: /docs/upgrading/
 
