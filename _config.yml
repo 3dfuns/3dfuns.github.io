@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : #"Site Title"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "쓰리디펀즈"
+name                     : "쓰리디펀즈 👀"
 description              : "An amazing website."
 url                      : "https://3dfuns.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
