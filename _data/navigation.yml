@@ -24,7 +24,7 @@ docs:
 #      - title: "Upgrading"
 #        url: /docs/upgrading/
 
-  - title: 샤오(Xiao) 
+  - title: 샤오(Xiao) 코드
     children:
 #      - title: "CAR"
 #        url: /_posts/car
