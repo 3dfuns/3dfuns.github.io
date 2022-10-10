@@ -23,7 +23,7 @@ docs:
         url: /docs/installation/
       - title: "Upgrading"
         url: /docs/upgrading/
-  - title: Customization
+  - title: 샤오(XIAO) 코드
     children:
       - title: "Configuration"
         url: /docs/configuration/
