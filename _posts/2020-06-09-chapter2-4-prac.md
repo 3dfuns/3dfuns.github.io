@@ -1,16 +1,7 @@
 ---
 title:  "[C++] 2.4 연습 문제 풀이 (아직 풀이 X)" 
-
-categories:
-  - C++ games
-tags:
-  - [Programming, Cpp, OpenGL, Graphics, Design Pattern]
-
 toc: true
 toc_sticky: true
-
-date: 2020-06-09
-last_modified_at: 2020-06-09
 ---
 
 인프런에 있는 홍정모 교수님의 **홍정모의 게임 만들기 연습 문제 패키지** 강의를 듣고 정리한 필기입니다.😀   
