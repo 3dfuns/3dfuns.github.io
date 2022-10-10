@@ -15,8 +15,8 @@ main:
 docs:
   - title: 만들어보자!!!
     children:
-      - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide/
+      - title: "CAR"
+        url: /_posts/CAR
       - title: "Structure"
         url: /docs/structure/
       - title: "Installation"
