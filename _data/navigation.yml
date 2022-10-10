@@ -10,11 +10,12 @@ main:
 #   url: /collection-archive/
 #  - title: "Sitemap"
 #   url: /sitemap/
-   
-# documentation links
+
+
+# Sidebar nav , documentation links
 docs:
-  - title: 만들어보자!!!
-    children:
+#  - title: 만들어보자!!!
+#    children:
 #      - title: "CAR"
 #        url: /_posts/car
 #      - title: "Structure"
@@ -24,8 +25,8 @@ docs:
 #      - title: "Upgrading"
 #        url: /docs/upgrading/
 
-  - title: 샤오(Xiao) 코드
-    children:
+#  - title: 샤오(Xiao) 코드
+#    children:
 #      - title: "CAR"
 #        url: /_posts/car
 #      - title: "Structure"
