@@ -16,7 +16,7 @@ docs:
   - title: 만들어보자!!!
     children:
       - title: "CAR"
-        url: /_posts/CAR/
+        url: /_posts/_make_car/
       - title: "Structure"
         url: /docs/structure/
       - title: "Installation"
