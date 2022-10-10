@@ -1,15 +1,15 @@
 # main links
 main:
   - title: "HOME"
-    url: https://3dfuns.github.io
+#   url: https://3dfuns.github.io
   - title: "SMART STORE"
-    url: https://smartstore.naver.com/3dfuns
-#   - title: "Sample Posts"
-#     url: /year-archive/
-#   - title: "Sample Collections"
-#     url: /collection-archive/
-#   - title: "Sitemap"
-#     url: /sitemap/
+#   url: https://smartstore.naver.com/3dfuns
+  - title: "Sample Posts"
+#   url: /year-archive/
+  - title: "Sample Collections"
+#   url: /collection-archive/
+  - title: "Sitemap"
+#   url: /sitemap/
    
 # documentation links
 docs:
