@@ -294,4 +294,13 @@ defaults:
       share: true
       related: true
       sidebar_main: true
-      
+   
+   
+defaults:
+  # _docs
+  - scope:
+      path: ""
+      type: docs
+    values:
+      sidebar:
+        nav: "docs"
