@@ -18,7 +18,7 @@ docs:
       - title: "CAR"
         url: /_posts/car
       - title: "Structure"
-        url: /docs/structure/
+        url: /docs/_posts/
       - title: "Installation"
         url: /docs/installation/
       - title: "Upgrading"
