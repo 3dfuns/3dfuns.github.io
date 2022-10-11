@@ -24,7 +24,7 @@ void loop() {
 }
 ```
 
-#### 🔨 함수 만들기
+#### 🔨 함수를 이용하여 깜빡이기
 ```cpp
 void setup() {
   pinMode(LED_BUILTIN, OUTPUT);
@@ -39,9 +39,10 @@ void function() {
   delay(1000);                       
   digitalWrite(LED_BUILTIN, LOW);    
   delay(1000); 
+  }
 ```
 
-#### 🔨 delay함수 없이 깜빡이기
+#### 🔨 Delay함수 없이 깜빡이기
 ```cpp
 const int ledPin =  LED_BUILTIN;
 int ledState = LOW;            
