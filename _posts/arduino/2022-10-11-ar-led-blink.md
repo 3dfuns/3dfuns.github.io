@@ -60,7 +60,7 @@ void loop() {
 - <a href="naver.com">아두이노 사이트</a>
 - <a href="naver.com">유튜브</a>
 
-누구나 쉽게 만들어 보도록 만들고 있습니다. 오류나 틀린 부분이 있다면  
+누구나 쉽게 할 수 있도록 만들고 있습니다. 오류나 틀린 부분이 있다면  
 연락주십시요. Email : jh.choi@fixnmax.com
 {: .notice--warning}
 
