@@ -22,8 +22,8 @@ void loop() {
   delay(1000);                       // wait for a second
 }
 ```
-<span style="font-size:50%">- LED_BUILTIN ➜ 내장된 LED에 핀 번호입니다. 아두이노 보드마다 틀립니다.</span>  
-<span style="font-size:50%">- HIGH ➜ 1, LOW ➜ 0 과 같습니다.</span>  
+<span style="font-size:50%">  ❓ LED_BUILTIN ➜ 내장된 LED에 핀 번호입니다. 아두이노 보드마다 틀립니다.</span>  
+<span style="font-size:50%">  ❓ HIGH ➜ 1, LOW ➜ 0 과 같습니다.</span>  
 
 #### 🔨 함수를 이용하여 깜빡이기
 ```cpp
