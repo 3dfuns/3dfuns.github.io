@@ -11,4 +11,4 @@ toc_sticky: true
 
 ㅅㄷㄴㅅㅁㄴㅇㄻ닝라ㅓㅣㅁㄴ퓜뉘ㅏ러ㅐ재
 
-[맨 위로 이동하기](#){: .btn .btn--primary }{: .align-right}
+[TOP](#){: .btn .btn--primary }{: .align-right}
