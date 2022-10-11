@@ -27,7 +27,7 @@ void loop() {
 #### 👉 참고 사이트
 - <a href="naver.com">아두이노 사이트</a>
 - <a href="naver.com">유튜브</a>
-{: .notice--info}
+
 ***
 
 [TOP](#){: .btn .btn--primary }{: .align-right}
