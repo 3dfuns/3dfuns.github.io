@@ -42,7 +42,7 @@ void function() {
 }
 ```
 
-#### 🔨 Delay함수 없이 깜빡이기
+#### 🔨 delay함수 없이 깜빡이기
 ```cpp
 const int ledPin =  LED_BUILTIN;
 int ledState = LOW;            
