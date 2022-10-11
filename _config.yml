@@ -110,9 +110,6 @@ author:
   location         : # "Somewhere"
   email            :
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
     - label: "3dfuns.com"
       icon: "fas fa-fw fa-anchor"
       url: "https://www.3dfuns.com"
@@ -122,6 +119,9 @@ author:
     - label: "Smart Stroe"
       icon: "fas fa-fw fa-th"
       url: "https://smartstore.naver.com/3dfuns"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:jh.choi@fixnmax.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
