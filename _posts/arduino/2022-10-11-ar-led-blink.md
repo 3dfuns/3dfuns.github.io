@@ -23,8 +23,8 @@ void loop() {
   delay(1000);                       // wait for a second
 }
 ```
-   - LED_BUILTIN ➜ 내장된 LED에 핀 번호입니다. 아두이노 보드마다 틀립니다.
-   - HIGH ➜ 1, LOW ➜ 0 과 같습니다.
+#####   - LED_BUILTIN ➜ 내장된 LED에 핀 번호입니다. 아두이노 보드마다 틀립니다.
+#####    - HIGH ➜ 1, LOW ➜ 0 과 같습니다.
 
 #### 🔨 함수를 이용하여 깜빡이기
 ```cpp
@@ -43,7 +43,7 @@ void blink() {
   delay(1000); 
 }
 ```
-  - blink 함수를 만들어서 동작
+#####   - blink 함수를 만들어서 동작
 
 #### 🔨 delay함수 없이 깜빡이기
 ```cpp
@@ -71,7 +71,7 @@ void loop() {
   }
 }
 ```
-  - millis함수를 이용하여 동작, millis함수는 타이머를 이용하여 delay가 되지 않습니다.
+#####   - millis함수를 이용하여 동작, millis함수는 타이머를 이용하여 delay가 되지 않습니다.
   
   
 #### 👉 참고 사이트
