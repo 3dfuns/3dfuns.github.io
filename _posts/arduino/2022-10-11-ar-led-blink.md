@@ -25,9 +25,9 @@ void loop() {
 ```
 
 ### 👉 참고 사이트
-- [아두이노 사이트](https://modoocode.com/66)
-- [유튜브](https://www.inflearn.com/course/following-c/dashboard)  
-{: .notice--warning}
+- <a href="naver.com">아두이노 사이트</a>
+- <a href="naver.com">유튜브</a>
+{: .notice--info}
 ***
 
 [TOP](#){: .btn .btn--primary }{: .align-right}
