@@ -27,7 +27,7 @@ void loop() {
 ### 👉 참고 사이트
 
 - [아두이노 사이트](https://modoocode.com/66)
-- [유튜브](https://www.inflearn.com/course/following-c/dashboard)
+- [유튜브](https://www.inflearn.com/course/following-c/dashboard)  
 {: .notice--warning}
 
 
