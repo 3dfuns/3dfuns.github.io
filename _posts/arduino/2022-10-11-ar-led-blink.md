@@ -39,7 +39,7 @@ void function() {
   delay(1000);                       
   digitalWrite(LED_BUILTIN, LOW);    
   delay(1000); 
-  }
+}
 ```
 
 #### 🔨 Delay함수 없이 깜빡이기
