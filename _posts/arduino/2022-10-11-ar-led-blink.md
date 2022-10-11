@@ -9,7 +9,7 @@ Arduino는 5V 또는 3.3V를 사용합니다. LED를 연결시 '저항 100~330Ω
 
 ***
 
-### 예시 - '기본'
+### 예시 : `기본` 
 ```cpp
 void setup() {
   // initialize digital pin LED_BUILTIN as an output.
