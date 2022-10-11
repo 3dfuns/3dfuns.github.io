@@ -42,8 +42,7 @@ void function() {
 ```
 
 #### 👉 참고 사이트
-- <a href="naver.com">아두이노 사이트</a>
-- <a href="naver.com">유튜브</a>
+- <a href="https://docs.arduino.cc/built-in-examples/basics/Blink#hardware-required">아두이노 사이트</a>
 
 누구나 쉽게 할 수 있도록 만들고 있습니다. 수정될 부분이 있다면 연락주십시요.  
 **Email : jh.choi@fixnmax.com**
