@@ -8,7 +8,7 @@ Arduino를 이용하여 LED를 깜빡이는 방법입니다.
 Arduino는 3.3V 또는 5V를 사용합니다. LED 연결시 <span style="background-color:yellow">저항값 100~330Ω </span>  
 정도의 저항을 같이 연결하여 주십시요.
 
-### 🔨 `기본` 예시 
+#### 🔨 `기본` 예시 
 ```cpp
 void setup() {
   // initialize digital pin LED_BUILTIN as an output.
@@ -24,7 +24,7 @@ void loop() {
 }
 ```
 
-### 👉 참고 사이트
+#### 👉 참고 사이트
 - <a href="naver.com">아두이노 사이트</a>
 - <a href="naver.com">유튜브</a>
 {: .notice--info}
