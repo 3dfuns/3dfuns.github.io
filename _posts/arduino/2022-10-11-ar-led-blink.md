@@ -3,7 +3,9 @@ layout: single
 title:  "Arduino - LED 깜빡이기"
 ---
 
-Arduino를 이용한 LED를 다양하게 깜빡이는 방법입니다.
+Arduino를 이용하여 LED를 깜빡이는 방법입니다.
+Arduino는 5V 또는 3.3V를 사용합니다. LED를 연결시 '저항 100~330ㄹ' 
+정도의 저항값을 같이 연결하여 주십시요.
 
 ***
 
