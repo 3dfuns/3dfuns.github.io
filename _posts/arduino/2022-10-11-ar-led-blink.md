@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Arduino - LED 깜빡이기"
+title:  "Arduino - LED 다양한 방법으로 깜빡이기"
 ---
 
 ***
