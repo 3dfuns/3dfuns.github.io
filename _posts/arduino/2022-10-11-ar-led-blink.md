@@ -5,7 +5,7 @@ title:  "Arduino - LED를 다양한 방법으로 깜빡이기"
 
 ***
 Arduino를 이용하여 LED를 다양한 방법으로 깜빡이는 예제  
-Arduino는 3.3V 또는 5V를 사용합니다. LED 연결시 <img width="24" alt="star1" src="https://user-images.githubusercontent.com/78655692/151471925-e5f35751-d4b9-416b-b41d-a059267a09e3.png"><span style="background-color:yellow">저항값 100~330Ω </span>  
+Arduino는 3.3V 또는 5V를 사용합니다. LED 연결시 <img width="24" alt="star1" src="https://user-images.githubusercontent.com/78655692/151471925-e5f35751-d4b9-416b-b41d-a059267a09e3.png"><span style="background-color:#FFFFDAB9">저항값 100~330Ω </span>  
 정도의 저항을 같이 연결하여 주십시요.
 
 #### 🔨 기본 예시 
