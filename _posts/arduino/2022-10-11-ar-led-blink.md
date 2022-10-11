@@ -1,6 +1,8 @@
 ---
 layout: single
 title:  "Arduino - LED를 다양한 방법으로 깜빡이기"
+tags:
+  - [아두이노, LED, Blink, Programming, Cpp, ]
 ---
 
 ***
