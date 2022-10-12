@@ -1,7 +1,7 @@
 ---
 layout: single
 text-decoration: none
-title:  "Arduino - LED를 다양한 방법으로 깜빡이기"
+title:  "Arduino - LED를 다양하게 깜빡이기"
 ---
 
 ***
@@ -27,7 +27,7 @@ void loop() {
   ❓ LED_BUILTIN ➜ 내장된 LED에 핀 번호입니다. 아두이노 보드마다 틀립니다.  
   ❓ HIGH ➜ 1, LOW ➜ 0 과 같습니다.
 
-#### 🔨 함수를 이용하여 깜빡이기
+#### 🔨 간단하게 함수를 만들어 깜빡이기
 ```cpp
 void setup() {
   pinMode(LED_BUILTIN, OUTPUT);
@@ -79,7 +79,6 @@ void loop() {
 - <a href="https://docs.arduino.cc/built-in-examples/basics/Blink#hardware-required">아두이노 사이트</a>
 
 누구나 쉽게 이해할 수 있도록 만들고 있습니다. 수정될 부분이 있다면 연락주십시요.  
-**Email : jh.choi@fixnmax.com**
 {: .notice--info}
 
 ***
