@@ -1,6 +1,8 @@
 ---
 layout: single
 title:  "Micropython - LED를 다양한 방법으로 깜빡이기"
+tags:
+  - [python]
 ---
 
 ***
