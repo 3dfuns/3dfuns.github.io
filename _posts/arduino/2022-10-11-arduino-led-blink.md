@@ -74,7 +74,7 @@ void loop() {
 ```
   ❓ millis함수를 이용하여 동작, millis함수는 타이머를 이용하여 delay가 되지 않습니다.
 
-<img width="120" alt="star1" src="/assets/images/xiao_samd21g18a.jpg">
+<img width="500" alt="star1" src="/assets/images/xiao_samd21g18a.jpg">
   
 #### 👉 참고 사이트
 - <a href="https://docs.arduino.cc/built-in-examples/basics/Blink#hardware-required">아두이노 사이트</a>
